@@ -1,0 +1,21 @@
+ul {
+  width: 100%;
+  color: #666;
+  text-align: center;
+  margin-top: 100px;
+}
+
+li {
+  float: left;
+  width: 30%;
+  list-style: none;
+  border-left: 1px solid pink;
+}
+
+li:first-child {
+  border-left: none;
+}
+
+p {
+  font-size: 30px;
+}
